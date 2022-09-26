@@ -1,11 +1,11 @@
 ---
 title: "What is Statistical Learning"
-subtitle: ""
 author: "Seung Hyun Sung"
 date: '2021-11-20'
+subtitle: ''
 slug: K-Mean Clustering Company using Financial Stock Data
 categories: R
-tags: 
+tags:
 - Statistics
 - Regression
 summary: ''
@@ -17,7 +17,6 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
-
 ---
 
 ```{r setup, include=FALSE}
