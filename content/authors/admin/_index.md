@@ -39,4 +39,4 @@ I have always been lucky to find great mentors to shape my problem-solving minds
 
 Thank you for visiting and have a nice day!  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
